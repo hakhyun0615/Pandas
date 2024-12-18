@@ -4,12 +4,10 @@ This repository contains notes and examples on various Pandas operations.
 ### Pandas Objects
 - Series
 - DataFrame
-### Index Objects
-- Index Operations
+- Index
 ### Indexing
 - Indexing Series
 - Indexing DataFrame
-### Multi Indexing
 - Multi Indexing Series
 - Multi DataFrame Indexing
 - Create Multiple Indexes
