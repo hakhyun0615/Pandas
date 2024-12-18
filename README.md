@@ -1,9 +1,9 @@
 # Pandas Operations
 This repository contains notes and examples on various Pandas operations.
 
-## Pandas Objects
-### Series Objects
-### DataFrame Objects
+### Pandas Objects
+- Series
+- DataFrame
 ### Index Objects
 - Index Operations
 ### Indexing
