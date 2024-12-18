@@ -1,5 +1,5 @@
 # Pandas Operations
-This repository contains notes and examples on various Pandas operations. Each section covers a specific aspect of pandas usage.
+This repository contains notes and examples on various Pandas operations.
 
 ## Pandas Objects
 ### Series Objects
