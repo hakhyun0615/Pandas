@@ -1,6 +1,7 @@
 # Pandas Operations
 This repository contains notes and examples on various Pandas operations.
 
+## Contents
 ### Pandas Objects
 - Series
 - DataFrame
